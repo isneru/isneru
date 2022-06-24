@@ -12,7 +12,6 @@
 - My favorite season is the Fall.
 - I love Gaming, Tech and I fall deeply for every cat i see on the street.
 
-<br>
 <p align='center'>
 <a href='https://html.com/'>
 <img src="https://skillicons.dev/icons?i=html"/>
@@ -67,24 +66,21 @@
 <img src="https://skillicons.dev/icons?i=figma"/>
 </a>
 </td>
-<td rowspan="2" align="center" width="50%">
+<td rowspan="2" valign='top' align="center" width="50%">
 
 ## Dev Cards
 
-<a href="https://app.daily.dev/isneru"><img src="https://api.daily.dev/devcards/7037c080c04b4c1a9c16ad12db5b9f38.png?r=l7l" width="240" alt="Diogo Nogueira's Dev Card"/></a>
+<a href="https://app.daily.dev/isneru"><img src="https://api.daily.dev/devcards/7037c080c04b4c1a9c16ad12db5b9f38.png?r=l7l" width="300" alt="Diogo Nogueira's Dev Card"/></a>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="50%">
+<td align="center" valign='top' width="50%">
 
 ## GitHub Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isneru&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
 
 </td>
-</tr>
-<tr>
-
 </tr>
 </tbody>
