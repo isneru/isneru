@@ -71,7 +71,7 @@
 
 ## Dev Cards
 
-<a href="https://app.daily.dev/isneru"><img src="https://api.daily.dev/devcards/7037c080c04b4c1a9c16ad12db5b9f38.png?r=l7l" width="270" alt="Diogo Nogueira's Dev Card"/></a>
+<a href="https://app.daily.dev/isneru"><img src="https://api.daily.dev/devcards/7037c080c04b4c1a9c16ad12db5b9f38.png?r=l7l" width="250" alt="Diogo Nogueira's Dev Card"/></a>
 
 </td>
 </tr>
