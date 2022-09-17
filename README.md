@@ -1,23 +1,10 @@
-<table width="800px">
-<thead>
-<tr>
-<th align='left'>
-<span align="center">
-
 ## About Me
 
-</span>
 
 - I am a 19 year old auto-didatic Developer.
 - My favorite season is the Fall.
 - I love Tech, gaming and I see coding as a type of art.
 
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td  valign='top' align="center" width="100%">
 
 ## Knowledge / Interests
 
@@ -64,6 +51,3 @@
 <a href='https://www.figma.com/'>
 <img src="https://skillicons.dev/icons?i=figma"/>
 </a>
-</td>
-</tr>
-</tbody>
