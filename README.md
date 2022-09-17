@@ -1,7 +1,7 @@
 <table width="800px">
 <thead>
 <tr>
-<th colspan="2" align='left'>
+<th align='left'>
 <span align="center">
 
 ## About Me
@@ -10,9 +10,17 @@
 
 - I am a 19 year old auto-didatic Developer.
 - My favorite season is the Fall.
-- I love Gaming, Tech and I fall deeply for every cat i see on the street.
+- I love Tech, gaming and I see coding as a type of art.
 
-<p align='center'>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td  valign='top' align="center" width="100%">
+
+## Knowledge / Interests
+
 <a href='https://html.com/'>
 <img src="https://skillicons.dev/icons?i=html"/>
 </a>
@@ -34,22 +42,13 @@
 <a href='https://reactjs.org/'>
 <img src="https://skillicons.dev/icons?i=react"/>
 </a>
+<br>
 <a href='https://www.typescriptlang.org/'>
 <img src="https://skillicons.dev/icons?i=ts"/>
 </a>
 <a href='https://styled-components.com/'>
 <img src="https://skillicons.dev/icons?i=styledcomponents"/>
 </a>
-</p>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td  valign='top' align="center" width="50%">
-
-## Interested in Learning
-
 <a href='https://tailwindui.com/'>
 <img src="https://skillicons.dev/icons?i=tailwind"/>
 </a>
@@ -65,22 +64,6 @@
 <a href='https://www.figma.com/'>
 <img src="https://skillicons.dev/icons?i=figma"/>
 </a>
-</td>
-<td rowspan="2" valign='top' align="center" width="50%">
-
-## Dev Cards
-
-<a href="https://app.daily.dev/isneru"><img src="https://api.daily.dev/devcards/7037c080c04b4c1a9c16ad12db5b9f38.png?r=l7l" width="300" alt="Diogo Nogueira's Dev Card"/></a>
-
-</td>
-</tr>
-<tr>
-<td align="center" valign='top' width="50%">
-
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isneru&theme=buefy-dark&hide_border=true)](https://git.io/streak-stats)
-
 </td>
 </tr>
 </tbody>
