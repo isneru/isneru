@@ -29,6 +29,9 @@
 <a href='https://reactjs.org/'>
 <img src="https://skillicons.dev/icons?i=react"/>
 </a>
+<a href='https://www.prisma.io/'>
+<img src="https://skillicons.dev/icons?i=prisma"/>
+</a>
 <br>
 <a href='https://www.typescriptlang.org/'>
 <img src="https://skillicons.dev/icons?i=ts"/>
@@ -50,4 +53,7 @@
 </a>
 <a href='https://www.figma.com/'>
 <img src="https://skillicons.dev/icons?i=figma"/>
+</a>
+<a href='https://www.mongodb.com/'>
+<img src="https://skillicons.dev/icons?i=mongodb"/>
 </a>
