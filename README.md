@@ -4,11 +4,7 @@
 - My favorite season is the Fall.
 - I love Tech, gaming and I see coding as a type of art.
 
-## Interests
-
-<br>
-
----
+## Techs
 
 <table>
 <thead>
