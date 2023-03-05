@@ -1,6 +1,6 @@
 ## About Me
 
-- I am a 19 year old auto-didatic Developer.
+- I am a 20 year old auto-didatic Developer.
 - My favorite season is the Fall.
 - I love Tech, gaming and I see coding as a type of art.
 
