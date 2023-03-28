@@ -9,8 +9,8 @@
 <table>
 <thead>
   <tr>
+    <th>Main Stack</th>
     <th>Interested in</th>
-    <th>Learned</th>
     <th>Learning</th>
   </tr>
 </thead>
@@ -33,10 +33,32 @@
       <a href='https://nextjs.org/'>
         <img src="https://skillicons.dev/icons?i=nextjs"/>
       </a>
-      <a href='https://www.mongodb.com/'>
-        <img src="https://skillicons.dev/icons?i=mongodb"/>
+      <a href='https://planetscale.com/'>
+        <img src="https://skillicons.dev/icons?i=planetscale"/>
       </a>
     </td>
+    <td>
+      <a href='https://www.docker.com/'>
+        <img src="https://skillicons.dev/icons?i=docker"/>
+      </a>
+    </td>
+    <td>
+      <a href='https://dev.java/'>
+        <img src="https://skillicons.dev/icons?i=java"/>
+      </a>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Messed with</th>
+  </tr>
+</thead>
+<tbody>
+  <tr align="center">
     <td>
       <a href='https://html.com/'>
         <img src="https://skillicons.dev/icons?i=html"/>
@@ -52,6 +74,9 @@
       </a>
       <a href='https://nodejs.org/en/'>
         <img src="https://skillicons.dev/icons?i=nodejs"/>
+      </a>
+      <a href='https://www.php.net/'>
+        <img src="https://skillicons.dev/icons?i=php"/>
       </a>
       <br />
       <a href='https://git-scm.com/'>
@@ -69,14 +94,13 @@
       <a href='https://www.figma.com/'>
         <img src="https://skillicons.dev/icons?i=figma"/>
       </a>
+      <a href='https://www.astro.build/'>
+        <img src="https://skillicons.dev/icons?i=astro"/>
+      </a>
     </td>
     <td>
       <a href='https://www.cprogramming.com/'>
         <img src="https://skillicons.dev/icons?i=c"/>
-      </a>
-      <br />
-      <a href='https://www.astro.build/'>
-        <img src="https://skillicons.dev/icons?i=astro"/>
       </a>
     </td>
   </tr>
