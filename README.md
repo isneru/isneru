@@ -41,10 +41,18 @@
       <a href='https://www.docker.com/'>
         <img src="https://skillicons.dev/icons?i=docker"/>
       </a>
+      <br />
+      <a href='https://www.rust-lang.org/'>
+        <img src="https://skillicons.dev/icons?i=rust"/>
+      </a>
     </td>
     <td>
       <a href='https://dev.java/'>
         <img src="https://skillicons.dev/icons?i=java"/>
+      </a>
+      <br />
+      <a href='https://svelte.dev/'>
+        <img src="https://skillicons.dev/icons?i=svelte"/>
       </a>
     </td>
   </tr>
