@@ -1,116 +1,50 @@
 ## About Me
 
 - I am a 20 year old auto-didatic Developer.
-- My favorite season is the Fall.
-- I love Tech, gaming and I see coding as a type of art.
+- Studying Security and Computer Networks
+- Working at CEX Portugal (also known as WeBuy)
+- I love tech, gaming and coding is a way to express art.
 
 ## Techs
 
-<table>
-<thead>
-  <tr>
-    <th>Main Stack</th>
-    <th>Interested in</th>
-    <th>Learning</th>
-  </tr>
-</thead>
-<tbody>
-  <tr align="center">
-    <td>
-      <a href='https://reactjs.org/'>
-        <img src="https://skillicons.dev/icons?i=react"/>
-      </a>
-      <a href='https://www.prisma.io/'>
-        <img src="https://skillicons.dev/icons?i=prisma"/>
-      </a>
-      <a href='https://www.typescriptlang.org/'>
-        <img src="https://skillicons.dev/icons?i=ts"/>
-      </a>
-      <br />
-      <a href='https://tailwindui.com/'>
-        <img src="https://skillicons.dev/icons?i=tailwind"/>
-      </a>
-      <a href='https://nextjs.org/'>
-        <img src="https://skillicons.dev/icons?i=nextjs"/>
-      </a>
-      <a href='https://planetscale.com/'>
-        <img src="https://skillicons.dev/icons?i=planetscale"/>
-      </a>
-    </td>
-    <td>
-      <a href='https://www.docker.com/'>
-        <img src="https://skillicons.dev/icons?i=docker"/>
-      </a>
-      <br />
-      <a href='https://www.rust-lang.org/'>
-        <img src="https://skillicons.dev/icons?i=rust"/>
-      </a>
-    </td>
-    <td>
-      <a href='https://dev.java/'>
-        <img src="https://skillicons.dev/icons?i=java"/>
-      </a>
-      <br />
-      <a href='https://svelte.dev/'>
-        <img src="https://skillicons.dev/icons?i=svelte"/>
-      </a>
-    </td>
-  </tr>
-</tbody>
-</table>
+### Main Stack
 
-<table>
-<thead>
-  <tr>
-    <th colspan="2">Messed with</th>
-  </tr>
-</thead>
-<tbody>
-  <tr align="center">
-    <td>
-      <a href='https://html.com/'>
-        <img src="https://skillicons.dev/icons?i=html"/>
-      </a>
-      <a href='https://www.w3.org/Style/CSS/Overview.en.html'>
-        <img src="https://skillicons.dev/icons?i=css"/>
-      </a>
-      <a href='https://getbootstrap.com/'>
-        <img src="https://skillicons.dev/icons?i=bootstrap"/>
-      </a>
-      <a href='https://www.javascript.com/'>
-        <img src="https://skillicons.dev/icons?i=js"/>
-      </a>
-      <a href='https://nodejs.org/en/'>
-        <img src="https://skillicons.dev/icons?i=nodejs"/>
-      </a>
-      <a href='https://www.php.net/'>
-        <img src="https://skillicons.dev/icons?i=php"/>
-      </a>
-      <br />
-      <a href='https://git-scm.com/'>
-        <img src="https://skillicons.dev/icons?i=git"/>
-      </a>
-      <a href='https://styled-components.com/'>
-        <img src="https://skillicons.dev/icons?i=styledcomponents"/>
-      </a>
-      <a href='https://www.apollographql.com/'>
-        <img src="https://skillicons.dev/icons?i=apollo"/>
-      </a>
-      <a href='https://graphql.org/'>
-        <img src="https://skillicons.dev/icons?i=graphql"/>
-      </a>
-      <a href='https://www.figma.com/'>
-        <img src="https://skillicons.dev/icons?i=figma"/>
-      </a>
-      <a href='https://www.astro.build/'>
-        <img src="https://skillicons.dev/icons?i=astro"/>
-      </a>
-    </td>
-    <td>
-      <a href='https://www.cprogramming.com/'>
-        <img src="https://skillicons.dev/icons?i=c"/>
-      </a>
-    </td>
-  </tr>
-</tbody>
-</table>
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindui.com)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://prisma.io)
+[![Next](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![Planetscale](https://skillicons.dev/icons?i=planetscale)](https://planetscale.com)
+
+#### Frontend
+
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)
+[![Svelte](https://skillicons.dev/icons?i=svelte)](https://svelte.dev)
+[![Astro](https://skillicons.dev/icons?i=astro)](https://astro.build)
+[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindui.com)
+
+#### Backend
+
+[![Next](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://javascript.com)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://typescriptlang.org)
+[![Express.js](https://skillicons.dev/icons?i=expressjs)](https://expressjs.com)
+[![PHP](https://skillicons.dev/icons?i=php)](https://php.net)
+[![Java](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/index.html)
+[![C](https://skillicons.dev/icons?i=c)](https://cprogramming.com)
+
+#### Databases
+
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://prisma.io)
+[![Planetscale](https://skillicons.dev/icons?i=planetscale)](https://planetscale.com)
+[![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org)
+[![Apollo](https://skillicons.dev/icons?i=apollo)](https://apollographql.com)
+
+#### System Tools
+
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html)
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
+[![Vim](https://skillicons.dev/icons?i=vim)](https://vim.org)
+[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
