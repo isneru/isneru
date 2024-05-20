@@ -1,6 +1,6 @@
 ## About Me
 
-- I am a 20 year old auto-didatic Developer.
+- I am a 21 year old auto-didatic Developer.
 - Studying Security and Computer Networks
 - Working at CEX Portugal (also known as WeBuy)
 - I love tech, gaming and coding is a way to express art.
