@@ -3,7 +3,6 @@
 - I am a 21 year old auto-didatic Developer.
 - Studying Security and Computer Networks
 - Working at CEX Portugal (also known as WeBuy)
-- I love tech, gaming and coding is a way to express art.
 
 ## Techs
 
@@ -14,7 +13,7 @@
 [![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindui.com)
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://prisma.io)
 [![Next](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org)
-[![Planetscale](https://skillicons.dev/icons?i=planetscale)](https://planetscale.com)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com)
 
 #### Frontend
 
@@ -37,7 +36,7 @@
 #### Databases
 
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://prisma.io)
-[![Planetscale](https://skillicons.dev/icons?i=planetscale)](https://planetscale.com)
+[![Supabase](https://skillicons.dev/icons?i=supabase)](https://supabase.com/)
 [![GraphQL](https://skillicons.dev/icons?i=graphql)](https://graphql.org)
 [![Apollo](https://skillicons.dev/icons?i=apollo)](https://apollographql.com)
 
