@@ -30,4 +30,8 @@
 [![Docker](https://skillicons.dev/icons?i=cloudflare)](https://cloudflare.com)
 [![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com)
 
+## Listening to / Recently listened
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtqni2vmtmllmk4b5o6xh5lyxy&cover_image=true&theme=default&show_offline=false&background_color=191919&interchange=true&bar_color=8c8c8c&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31xtqni2vmtmllmk4b5o6xh5lyxy&redirect=true)
+
 
