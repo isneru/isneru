@@ -1,4 +1,4 @@
-<img width="980" height="400" src="https://gh-readme.diogo.wtf/api/readme" />
+<img width="980" src="https://gh-readme.diogo.wtf/api/readme" />
 
 ___
 
