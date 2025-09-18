@@ -1,4 +1,5 @@
 <img width="980" src="https://gh-readme.diogo.wtf/api/readme" />
+<img width="500" src="https://gh-readme.diogo.wtf/api/readme-mobile" />
 
 ___
 
