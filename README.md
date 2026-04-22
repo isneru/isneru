@@ -1,4 +1,17 @@
-<picture>
-    <source srcset="https://gh-readme.diogo.wtf/api/readme?screen=mobile&cache=bust1" media="(max-width: 600px)" />
-    <img width="100%" src="https://gh-readme.diogo.wtf/api/readme?cache=bust1" />
-</picture>
+```
+╭────────────────────────────────────────────────────╮
+│                                                    │
+│    /\_/\       isneru                              │
+│   ( o.o )      ────────────────────────────        │
+│    > ^ <       commits (2026) ·········· 17        │
+│   /|   |\      stars ··················· 21        │
+│  (_|   |_)                                         │
+│                languages                           │
+│                ████████░░░░░░ TypeScript    57%    │
+│                ██░░░░░░░░░░░░ Java          14%    │
+│                █░░░░░░░░░░░░░ C++            9%    │
+│                █░░░░░░░░░░░░░ C              8%    │
+│                ░░░░░░░░░░░░░░ JavaScript     3%    │
+│                                                    │
+╰────────────────────────────────────────────────────╯
+```
