@@ -3,7 +3,6 @@
 
 import os
 import requests
-from datetime import datetime
 
 USERNAME = "isneru"
 GRAPHQL_URL = "https://api.github.com/graphql"
@@ -72,48 +71,61 @@ def fetch_stats():
     return commits, stars, top_langs
 
 
-def render_box(commits, stars, top_langs):
-    year = datetime.now().year
-    W = 52
+def load_art():
+    art_path = os.path.join(
+        os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+        "ascii",
+        "cat.txt",
+    )
+    with open(art_path) as f:
+        lines = [line.rstrip() for line in f]
+    while lines and not lines[0]:
+        lines.pop(0)
+    while lines and not lines[-1]:
+        lines.pop()
+    return lines
 
-    cat = [
-        r"  /\_/\  ",
-        r" ( o.o ) ",
-        r"  > ^ <  ",
-        r" /|   |\ ",
-        r"(_|   |_)",
-    ]
-    CAT_W = 9
-    GAP = 5
 
-    right = []
-    val_w = max(len(f"{commits:,}"), len(f"{stars:,}"))
-    stat_w = 28
-    right.append("isneru")
-    right.append("\u2500" * stat_w)
-    for label, val in [(f"commits ({year})", commits), ("stars", stars)]:
-        formatted = f"{val:>{val_w},}"
-        dots = "\u00b7" * (stat_w - len(label) - 1 - len(formatted) - 1)
-        right.append(f"{label} {dots} {formatted}")
-    right.append("")
-    right.append("languages")
+def render_box(commits, stars, top_langs, art):
+    art_w = max(len(line) for line in art)
+    LPAD = 2
+    GAP = 4
 
     BAR_W = 14
+    lang_rows = []
     for name, pct in top_langs:
         filled = round(pct / 100 * BAR_W)
-        bar = "\u2588" * filled + "\u2591" * (BAR_W - filled)
-        right.append(f"{bar} {name:<12s} {pct:>3d}%")
+        bar = "=" * filled + "-" * (BAR_W - filled)
+        lang_rows.append(f"[{bar}] {name:<12s} {pct:>3d}%")
+    data_w = max(len(line) for line in lang_rows)
 
-    total_lines = max(len(cat), len(right))
+    right = []
+    right.append("isneru")
+    right.append("\u2500" * data_w)
+    for label, val in [("commits", commits), ("stars", stars)]:
+        formatted = f"{val:,}"
+        right.append(f"{label}{formatted:>{data_w - len(label)}}")
+    right.append("")
+    right.append("languages")
+    right.extend(lang_rows)
+
+    right_w = max(len(line) for line in right)
+    W = LPAD + art_w + GAP + right_w + 2
+
+    total_lines = max(len(art), len(right))
+    art_off = (total_lines - len(art)) // 2
+    right_off = (total_lines - len(right)) // 2
 
     lines = []
     lines.append("\u256d" + "\u2500" * W + "\u256e")
     lines.append("\u2502" + " " * W + "\u2502")
 
     for i in range(total_lines):
-        cat_part = cat[i] if i < len(cat) else " " * CAT_W
-        right_part = right[i] if i < len(right) else ""
-        inner = "  " + cat_part + " " * GAP + right_part
+        art_part = art[i - art_off] if art_off <= i < art_off + len(art) else ""
+        right_part = (
+            right[i - right_off] if right_off <= i < right_off + len(right) else ""
+        )
+        inner = " " * LPAD + art_part.ljust(art_w) + " " * GAP + right_part
         inner = inner.ljust(W)
         lines.append("\u2502" + inner + "\u2502")
 
@@ -125,7 +137,8 @@ def render_box(commits, stars, top_langs):
 
 def main():
     commits, stars, top_langs = fetch_stats()
-    box = render_box(commits, stars, top_langs)
+    art = load_art()
+    box = render_box(commits, stars, top_langs, art)
 
     readme = f"```\n{box}\n```\n"
 
